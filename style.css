@@ -4,16 +4,20 @@
     justify-content: center;
     flex-wrap: wrap;
    padding: 20px;
-   background-color: beige;
+   background-color: white;
 }
 .container{
     padding: 20px;
     margin: 10px;
-    background-color: antiquewhite;
+    background-color: whitesmoke;
 }
 .card{
     padding: 30px;
     margin: 30px;
     
 
+}
+.container-fluid{
+    background-color: black;
+    color: white;
 }
